@@ -1,5 +1,3 @@
-# Current Projects
-___
 ### Spark on Kubernetes
 ![enter image description here](https://cdn-images-1.medium.com/max/1920/1*dExybAJeomHZxzWaMA6rAQ.png)
 > Spark can run on clusters managed by Kubernetes. This feature makes use of native Kubernetes scheduler that has been added to Spark.
